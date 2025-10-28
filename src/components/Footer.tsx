@@ -34,11 +34,11 @@ export default function Footer() {
             <div className="space-y-3 text-gray-400">
               <div className="flex justify-between">
                 <span>Segunda a Sexta</span>
-                <span className="font-semibold text-white">09:00 - 19:00</span>
+                <span className="font-semibold text-white">14:00 - 18:00</span>
               </div>
               <div className="flex justify-between">
                 <span>Sábado</span>
-                <span className="font-semibold text-white">09:00 - 17:00</span>
+                <span className="font-semibold text-white">09:00 - 16:00</span>
               </div>
               <div className="flex justify-between">
                 <span>Domingo</span>
@@ -64,7 +64,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 mb-1">Telefone / WhatsApp</p>
-                  <p className="font-semibold">(11) 99999-9999</p>
+                  <p className="font-semibold">(14)99849-2425 </p>
                 </div>
               </a>
 
@@ -92,7 +92,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 mb-1">Instagram</p>
-                  <p className="font-semibold">@nailstudio</p>
+                  <p className="font-semibold">@mariaisabela_designer</p>
                 </div>
               </a>
             </div>
@@ -105,14 +105,14 @@ export default function Footer() {
               <MapPin className="w-5 h-5 text-rose-400 flex-shrink-0 mt-1" />
               <div>
                 <p className="font-semibold text-white mb-1">Localização</p>
-                <p className="text-sm">Rua das Flores, 123 - Jardim Primavera</p>
-                <p className="text-sm">São Paulo, SP - CEP 01234-567</p>
+                <p className="text-sm">Rua Jose Pedro De Oliveira Campos, 429 - Jardim Beija-Flor</p>
+                <p className="text-sm">Itapeva, SP - CEP 18401-480</p>
               </div>
             </div>
 
             <div className="text-center md:text-right text-gray-400 text-sm">
               <p>© 2024 Nail Studio</p>
-              <p className="mt-1">Feito com <Heart className="w-4 h-4 inline text-rose-400" /> e dedicação</p>
+              <p className="mt-1">Feito por Maria Isabela com <Heart className="w-4 h-4 inline text-rose-400" /> e dedicação</p>
             </div>
           </div>
         </div>

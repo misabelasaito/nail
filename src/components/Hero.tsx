@@ -11,10 +11,6 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
-        <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-6 py-3 rounded-full shadow-lg mb-8 animate-fade-in">
-          <Sparkles className="w-5 h-5 text-rose-500" />
-          <span className="text-sm font-medium text-gray-700">Nail Design & Art Studio</span>
-        </div>
 
         <h1 className="text-6xl md:text-8xl font-bold text-gray-900 mb-6 leading-tight">
           Beleza nas
@@ -45,12 +41,6 @@ export default function Hero() {
             <Instagram className="w-5 h-5 group-hover:text-pink-500 transition-colors" />
             Seguir no Instagram
           </a>
-        </div>
-      </div>
-
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
-        <div className="w-6 h-10 border-2 border-gray-400 rounded-full flex items-start justify-center p-2">
-          <div className="w-1.5 h-3 bg-gray-400 rounded-full"></div>
         </div>
       </div>
     </section>
